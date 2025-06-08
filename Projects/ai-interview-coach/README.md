@@ -1,16 +1,26 @@
 # AI Interview Coach
 
-## Objective
-Use GPT to simulate interview scenarios, provide feedback, and generate practice questions tailored to specific job roles.
+## 🎯 Objective
+Use ChatGPT to simulate realistic interview sessions for any job role and provide real-time feedback, coaching tips, and evaluation.
 
-## Tools Used
-- ChatGPT (GPT-4)
-- Role-based prompting
-- Dynamic Q&A generation
+## 🧰 Tools Used
+- OpenAI ChatGPT (GPT-4)
+- Role-based Prompting
+- Chain-of-Thought Reasoning
+- Follow-up Questioning Strategy
 
-## Usage
-Load the `prompt.md` and provide the job role or topic to generate interview questions and coaching tips.
+## 🚀 How It Works
+- You provide a job title or description.
+- The model simulates an interview with tailored questions.
+- After each answer, it gives structured feedback and suggestions.
+- Final summary highlights strengths and improvement areas.
 
----
+## 📄 Files Included
+- `prompt.md` – Core prompt to generate interview sessions
+- `examples/input_role.txt` – Example job role input
+- `examples/output_session.txt` – Sample conversation output
 
-(Project details coming soon)
+## 🔧 How to Use
+1. Copy the prompt from `prompt.md` into GPT-4 or ChatGPT.
+2. Replace `{job_role}` with your desired job (e.g., "SOC Analyst L1").
+3. Use the simulated interview session for practice and improvement.
