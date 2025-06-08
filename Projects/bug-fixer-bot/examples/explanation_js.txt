@@ -1,0 +1,3 @@
+The error occurred because the function `greet()` was called without passing a `name`. So, `name` was `undefined`, and `undefined.toUpperCase()` caused a TypeError.
+
+To fix it, I added a check: if `name` is not provided, we default to greeting a "Guest".
