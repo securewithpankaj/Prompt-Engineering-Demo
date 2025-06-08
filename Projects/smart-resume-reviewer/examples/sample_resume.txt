@@ -1,0 +1,22 @@
+John Doe  
+Email: john.doe@example.com  
+Phone: +1-234-567-8901  
+
+Summary  
+Experienced software developer with 3 years of expertise in Python and web development. Worked on various projects involving API integration, database management, and frontend UI enhancements.
+
+Skills  
+- Python, JavaScript, HTML/CSS  
+- Django, Flask  
+- MySQL, PostgreSQL  
+- REST APIs  
+
+Experience  
+Software Developer, Tech Solutions Inc.  
+Jan 2021 – Present  
+- Developed and maintained web applications using Django and React.  
+- Collaborated with cross-functional teams to deliver APIs.  
+- Improved database performance by optimizing queries.  
+
+Education  
+BSc in Computer Science, XYZ University, 2020
