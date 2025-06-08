@@ -27,7 +27,7 @@ Code:
 print(divide(10, 0))]
 
 Error:
-[Paste error message here]
+[ZeroDivisionError: division by zero]
 
 
 
