@@ -14,3 +14,9 @@ print(divide(10, 0))
 
 Error Message:
 [ZeroDivisionError: division by zero]
+
+
+Return:
+- The cause of the bug
+- The corrected code
+- A beginner-friendly explanation
