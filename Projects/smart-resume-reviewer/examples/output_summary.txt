@@ -1,0 +1,11 @@
+Summary:  
+The resume shows strong Python and web development skills, particularly with Django and REST APIs, which aligns well with the job description. However, it lacks mention of cloud technologies like AWS, Docker, and CI/CD experience, which are important for this role.
+
+Suggestions:  
+- Add any experience or training related to AWS or other cloud platforms.  
+- Mention familiarity or projects involving Docker and CI/CD pipelines.  
+- Highlight teamwork and communication skills explicitly in the summary or skills section.  
+- Use keywords from the job description like "microservices" if applicable.  
+- Consider rephrasing to emphasize scalable application development.
+
+Overall, tailoring the resume to include cloud and DevOps-related skills will improve the match with the job description and ATS scoring.
