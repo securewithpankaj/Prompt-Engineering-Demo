@@ -1,0 +1,8 @@
+We are looking for a Software Engineer with strong experience in:
+
+- Python and cloud technologies, especially AWS  
+- Building scalable web applications  
+- Experience with RESTful API design and microservices architecture  
+- Familiarity with Docker and CI/CD pipelines  
+- Good communication and teamwork skills  
+- Bachelor’s degree in Computer Science or related field
