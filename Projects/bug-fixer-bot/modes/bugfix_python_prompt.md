@@ -6,7 +6,11 @@ Your job is to:
 - Explain it like you're mentoring a beginner
 
 Input Code:
-[Paste code here]
+[def divide(a, b):
+    return a / b
+
+print(divide(10, 0))
+]
 
 Error Message:
-[Paste error message here]
+[ZeroDivisionError: division by zero]
