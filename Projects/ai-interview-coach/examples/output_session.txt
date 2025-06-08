@@ -1,0 +1,36 @@
+👤 Interviewer: Hi, and welcome to your SOC Analyst interview. Let's begin.
+
+Question 1: What is the difference between IDS and IPS?
+
+🙋 Candidate: IDS detects threats, IPS detects and blocks them. IDS is passive, while IPS is active.
+
+💬 AI Feedback:
+- Good concise explanation.
+- Consider adding examples or tools (e.g., "Snort is an IDS; Suricata can act as IPS").
+- You might also mention placement in the network.
+
+---
+
+Question 2: What types of logs would you analyze in a SIEM platform?
+
+🙋 Candidate: Firewall logs, antivirus logs, and system logs.
+
+💬 AI Feedback:
+- Correct, but a bit generic.
+- Enhance your answer with log examples like "Windows Event Logs, DNS logs, or authentication logs from Active Directory."
+- Tie it back to detecting specific threats.
+
+---
+
+... [Continued for more questions]
+
+---
+
+📝 Final Summary:
+✅ Strengths:
+- You understand core SOC concepts.
+- Clear answers and structure.
+
+⚠️ Areas to Improve:
+- Add more real-world tools or scenarios.
+- Expand your answers to show deeper knowledge.
