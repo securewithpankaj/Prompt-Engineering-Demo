@@ -52,8 +52,14 @@ The corrected code
 A short, clear explanation
 
 Code:
-[Paste code here]
+[function greet(name) {
+  return "Hello, " + name.toUpperCase();
+}
+
+console.log(greet());
+]
 
 Error:
-[Paste error message here]
+[TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+]
 
