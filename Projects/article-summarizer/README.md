@@ -40,12 +40,6 @@ article-summarizer/
 └── tone_variations_prompt.txt
 
 
-## 🚀 How to Use
-
-1. Pick a long article and paste it into `sample_article.txt`.
-2. Choose the mode and use the corresponding prompt in `modes/`.
-3. Input both into your preferred LLM (like GPT-4 or Claude).
-4. Save the output into the `examples/` folder.
 
 
 ## 📜 License
