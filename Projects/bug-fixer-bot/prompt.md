@@ -21,7 +21,10 @@ Rewrite the fixed version of the code
 Explain the fix in simple terms
 
 Code:
-[Paste code here]
+[def divide(a, b):
+    return a / b
+
+print(divide(10, 0))]
 
 Error:
 [Paste error message here]
