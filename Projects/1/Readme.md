@@ -30,7 +30,7 @@ The main prompt used was:
 | ...                  | ...                     | ...                       |
 | (Total 100 rows)     |                         |                           |
 
-*Note: Full table is available in the [AI_Tools_Table.md](./Paid_vs_Free.md)*
+*Note: Full table is available in the [AI_Tools_Table.md](./Paid%20vs%20Free.md)*
 
 ---
 
