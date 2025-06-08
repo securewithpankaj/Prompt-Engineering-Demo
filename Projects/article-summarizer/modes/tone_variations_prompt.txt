@@ -1,0 +1,3 @@
+Summarize the article in a [formal / humorous / sarcastic / neutral] tone.
+
+[Paste article here]
