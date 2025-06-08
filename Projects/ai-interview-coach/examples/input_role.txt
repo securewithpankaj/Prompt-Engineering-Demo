@@ -1,0 +1,4 @@
+Job Role: SOC Analyst Level 1
+
+Description:
+An entry-level cybersecurity analyst responsible for monitoring security events, analyzing logs, escalating incidents, and following standard operating procedures in a Security Operations Center (SOC).
